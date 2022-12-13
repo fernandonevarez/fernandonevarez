@@ -1,10 +1,22 @@
 <div align="center">
 <!-- got this from: https://github.com/kyechan99/capsule-render#custom-color-list -->
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋🏼&animation=fadeIn&type=waving&color=gradient&customColorList=21,22,27&height=100"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,27,27&height=200&section=header&text=Hey%20Everyone!👋🏼&fontSize=80)
+
+  <!-- <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋🏼&animation=fadeIn&type=waving&color=gradient&customColorList=21,22,27&height=100"/> -->
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=SloppyFlipFlop&bg_color=30,3EADCF,ABE9CD&title_color=fff&text_color=fff)
 
+</div>
+
+- 🔭 I’m currently working on updating [CodeDevils](https://codedevils.org/en-us/) offical club website
+- 🌱 I’m currently learning Python
+- 👨🏼‍🎓 I'm currently studying Computer Science at Arizona State University
+- 💬 Ask me about my future goals
+
 <hr>
+
+<div align="center">
 
 ### 🛠️ Languages :
 
