@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working on updating [CodeDevils](https://codedevils.org/en-us/) offical club website
+- 🔭 I’m currently working on updating [CodeDevils](https://codedevils.org/en-us/) official club website
 - 🌱 I’m currently learning Python
 - 👨🏼‍🎓 I'm studying Computer Science at Arizona State University
 - 💬 Ask me about my future goals with AI
