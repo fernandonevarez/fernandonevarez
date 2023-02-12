@@ -8,9 +8,10 @@
 
 </div>
 
-- 🔭 I’m currently working on updating [CodeDevils](https://codedevils.org/en-us/) official club website
+- 🔭 I’m currently working on updating [CodeDevils](https://codedevils.org/en-us/) offical club website
 - 🌱 I’m currently learning Python
-- 👨🏼‍🎓 I'm studying Computer Science at Arizona State University
+- 👨🏼‍🎓 I'm currently studying Computer Science at Arizona State University
+- 👨🏼‍💼 An officer in CodeDevils - An organization at Arizona State University
 - 💬 Ask me about my future goals with AI
 
 <hr>
@@ -37,7 +38,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SloppyFlipFlop&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats) -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,27&height=200&section=footer&fontSize=80)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,27&height=200&section=footer&fontSize=80) -->
 
 </div>
 
