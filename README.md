@@ -55,19 +55,13 @@
 ### Databases and Tools
 
 <div  style="display: inline-flex; align-items: center;">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb
-/mongodb-original.svg' height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' height="30">
 <img src='images/postman_logo.svg' height="30">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git
-/git-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple
-/apple-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode
-/vscode-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma
-/figma-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab
-/matlab-original.svg' height="30">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height="30">
 <img src='images/Notion_app_logo.png' height="30">
 
 </div>
