@@ -21,6 +21,7 @@
 </div>
 
 <!-- icons -->
+<!-- got icon images from https://github.com/devicons/devicon -->
 
 <div align="center">
 
