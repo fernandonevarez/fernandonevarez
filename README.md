@@ -26,11 +26,12 @@
 
 ### Languages
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'  height="40"> 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height="40"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg' height="40">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' height="40">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' height="40">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' height="40">
+<img src='images/javascript.svg'  height="40"> 
+<img src='images/typescript.svg' height="40"> <img src='images/java.svg' height="40">
+<img src='images/html5.svg' height="50">
+<img src='images/css3.svg' height="40">
+<img src='images/python.svg' height="40">
+<img src='images/rust.png' height="40">
 
 </div>
 
@@ -39,12 +40,12 @@
 ### Frameworks and libraries
 
 <div  style="display: inline-flex; align-items: center;">
-  <img src='images/nextjs_logo.jpeg' height="40">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height="40">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="40">
+  <img src='images/nextjs.jpeg' height="40">
+  <img src='images/react.svg' height="40">
+  <img src='images/sass.svg' height="40">
+  <img src='images/bootstrap.svg' height="40">
+  <img src='images/jquery.svg' height="40">
+  <img src='images/nodejs.svg' height="40">
 </div>
 </div>
 
@@ -54,14 +55,14 @@
 ### Databases and Tools
 
 <div  style="display: inline-flex; align-items: center;">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' height="30">
-<img src='images/postman_logo.svg' height="30">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height="30">
-<img src='images/Notion_app_logo.png' height="30">
+  <img src='images/mongodb.svg' height="40">
+<img src='images/postman_logo.svg' height="40">
+<img src='images/git.svg' height="40">
+  <img src='images/apple-logo.svg' height="40">
+  <img src='images/vscode-logo.svg' height="40">
+  <img src='images/figma-logo.svg' height="40">
+  <img src='images/matlab-logo.svg' height="40">
+<img src='images/Notion_app_logo.png' height="40">
 
 </div>
 </div>
