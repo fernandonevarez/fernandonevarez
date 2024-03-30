@@ -70,7 +70,7 @@
 
 <hr/>
 
-- 🔭 I’m currently a project manager and leading the website development team at [CodeDevils']([https://github.com/PNARDS/AMS](https://github.com/ASU-CodeDevils/codedevils.org))
+- 🔭 I’m currently a project manager and leading the [website development](https://github.com/ASU-CodeDevils/codedevils.org) team at CodeDevils
 - 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils) and [Software Developers Association(SoDA)](https://asu.campuslabs.com/engage/organization/soda)
 - 👨🏼‍🎓 I'm currently studying Computer Science at Arizona State University
 - 👨🏼‍💼 An officer in CodeDevils and Software Developers Association(SoDA) - Both are software development organizations at Arizona State University
