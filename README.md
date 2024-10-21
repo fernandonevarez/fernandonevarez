@@ -29,4 +29,4 @@
 
 - 🔭 I’m currently working at [Arizona State University](https://www.asu.edu/) as a Web Designer.
 - 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils) and [Software Developers Association(SoDA)](https://asu.campuslabs.com/engage/organization/soda)
-- 💬 Ask me about my future goals with [LMS project](https://github.com/fernandonevarez/lms).
+- 💬 Ask me about my future goals with my [LMS project](https://github.com/fernandonevarez/lms).
