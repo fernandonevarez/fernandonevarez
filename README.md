@@ -27,6 +27,6 @@
 
 <hr/>
 
-- 🔭 I’m currently a project manager and leading the [website development](https://github.com/ASU-CodeDevils/codedevils.org) team at CodeDevils
+- 🔭 I’m currently working at [Arizona State University](https://www.asu.edu/) as a Web Designer.
 - 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils) and [Software Developers Association(SoDA)](https://asu.campuslabs.com/engage/organization/soda)
 - 💬 Ask me about my future goals with [LMS project](https://github.com/fernandonevarez/lms).
