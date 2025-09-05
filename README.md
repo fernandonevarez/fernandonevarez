@@ -1,4 +1,4 @@
-<div align="center">
+.<div align="center">
 
 [![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hello,%20I'm%20David!%20🧑🏽‍💻&fontSize=50&animation=fadeIn)](https://github.com/fernandonevarez?tab=repositories)
 
@@ -27,6 +27,6 @@
 
 <hr/>
 
-- 🔭 I’m currently working at [Arizona State University](https://www.asu.edu/) as a Web Designer.
-- 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils) and [Software Developers Association(SoDA)](https://asu.campuslabs.com/engage/organization/soda)
+- 🔭 I’m currently working at [the city of chandler](https://www.chandleraz.gov/) as a Website development intern.
+- 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils).
 - 💬 Ask me about my future goals with my [LMS project](https://github.com/fernandonevarez/lms).
