@@ -1,4 +1,4 @@
-.<div align="center">
+<div align="center">
 
 [![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hello,%20I'm%20David!%20🧑🏽‍💻&fontSize=50&animation=fadeIn)](https://github.com/fernandonevarez?tab=repositories)
 
