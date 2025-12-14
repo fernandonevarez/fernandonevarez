@@ -27,6 +27,6 @@
 
 <hr/>
 
-- 🔭 I’m currently working at [the city of Chandler](https://www.chandleraz.gov/) as a Website development intern and [Glendale Community College](https://www.gccaz.edu/) as a website accessibility project assistant.
+- 🔭 I’m currently working at [the city of Chandler](https://www.chandleraz.gov/) as a Website intern.
 - 🌱 I’m currently teaching Full-stack Devlopment to students at ASU apart of [CodeDevils](https://asu.campuslabs.com/engage/organization/codedevils).
 - 💬 Ask me about my future goals with my [LMS project](https://github.com/fernandonevarez/lms).
